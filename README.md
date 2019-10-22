@@ -1,2 +1,2 @@
 # Love-List
-collect love from Internet
+collect love demo from Internet
